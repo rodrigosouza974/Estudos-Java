@@ -61,6 +61,10 @@ public class ExemploClasse {
 Usando esses métodos, você pode controlar como os atributos de uma classe são acessados e modificados por outras classes. O encapsulamento dessa maneira ajuda a garantir a consistência e integridade dos dados, facilita a manutenção do código e permite a implementação de lógica adicional, se necessário, durante a obtenção ou definição dos valores.
 
 
+ONDE SÃO DECLARADOS?
+
+Os métodos get e set são declarados dentro da classe à qual eles pertencem. Esses métodos são parte da implementação da classe e fornecem uma interface controlada para acessar e modificar os atributos privados da classe. Portanto, eles fazem parte do código interno da classe.
+
 */
 
 
